@@ -1,7 +1,7 @@
 # Math-scripts
 Python examples for beginners
 
-Scripts for solve / investigate mathemacal exercises 
+Scripts for solve / investigate mathematical exercises 
 by python3 scripts.
 
 Inspired by Dima |Matan| Mikhailov
